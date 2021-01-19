@@ -22,7 +22,7 @@ class App extends Component {
   render() {
   return (
     <div>
-      {this.state.employeeList[100].email || null}
+      {/* {this.state.employeeList[100].email || null} */}
     </div>
   );
 };
