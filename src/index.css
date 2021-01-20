@@ -8,6 +8,70 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier Prime',
     monospace;
+}
+.header {
+  padding: 25px 5px;
+  background-color: #E8DAEF;
+  width: 100%;
+  color: #4A235A;
+  text-align: center;
+  border-bottom: 10px solid #4A235A;
+}
+
+h1 {
+  font-family: "Courier Prime", Courier, monospace;
+  font-size: 55px;
+  font-weight: bold;
+}
+
+p {
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 20px 20px;
+  margin: 0 auto;
+}
+
+#navbar {
+  background-color: #BB8FCE;
+  color: #E8DAEF;
+}
+
+.navbar-collapse {
+  margin: 0 auto;
+  justify-content: center;
+  align-self: flex-start;
+}
+
+.searchbar button {
+  border: 1px solid #052a8f;
+}
+
+.searchbar button:hover {
+  background-color: #052a8f;
+  color: aliceblue;
+}
+
+.form-control {
+  text-align: center;
+}
+
+.datatable .col .pointer:after {
+  font-size: 80%;
+  content: "";
+  margin-right: 18px;
+}
+
+.datatable .col .pointer:hover:after {
+  font-size: 80%;
+  content: "🔻";
+  margin-right: 0;
+}
+
+th {
+  background-color: #E8DAEF;
+  color: #4A235A;
 }

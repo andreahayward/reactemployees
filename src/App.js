@@ -1,4 +1,5 @@
 import './App.css';
+import './index.css';
 import axios from "axios";
 import React, { Component } from "react";
 import AppHeader from "./components/Header.js";
