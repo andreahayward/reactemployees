@@ -15,9 +15,8 @@ function Table({headings, users, handleSort }) {
                   className="col"
                   key={name}
                   style={{ width }}
-                  onClick={() => {
-                    handleSort(name.toLowerCase());
-                  }}
+                  onClick={() => handleSort(name.toLowerCase())
+                  }
                 >
                   {name}
                   <span className="pointer"></span>
