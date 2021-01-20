@@ -1,10 +1,10 @@
-#React Employee Tracker
+# React Employee Tracker
 
 ![image](https://user-images.githubusercontent.com/67828728/105186942-39a25680-5b00-11eb-88fa-66098f9593aa.png)
 
 ![image](https://user-images.githubusercontent.com/67828728/105187154-75d5b700-5b00-11eb-887d-cfcc4aad4cda.png)
 
-##User Story
+## User Story
 
 As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
